@@ -2,7 +2,7 @@
 
 **Agentic AI Engineer · Founder of Kaldr Tech**
 
-🔗 [kaldrtech.com](https://kaldrtech.com)  ·  📧  dre@kaldrbusiness.com
+🔗 [laseanpickens.com](https://laseanpickens.com)  ·  📧  lasean@kaldrbusiness.com  ·  Portfolio proof: [kaldrtech.com](https://kaldrtech.com)
 
 ---
 
@@ -67,7 +67,7 @@ SOC 2-aligned controls · PCI DSS merchant · TCPA 10DLC · GDPR · CCPA · HIPA
 - [propstack](https://github.com/DreTheGeek/propstack)
 
 ### Core product (private)
-**kaldr-tech** - Kaldr Tech multi-tenant SaaS platform. Live at kladrtech.com. Walkthrough available on request.
+**kaldr-tech** - Kaldr Tech multi-tenant SaaS platform. Live at kaldrtech.com. Walkthrough available on request.
 
 ---
 
@@ -81,4 +81,4 @@ Ten years operating complex industrial-control systems in safety-critical, zero-
 
 Remote (US Eastern Time). Available for contract engagements in agentic AI, platform engineering, or full-stack SaaS.
 
-[kaldrtech.com](https://kaldrtech.com) · [laseanpickens.com](https://laseanpickens.com) · dre@kaldrbusiness.com
+[laseanpickens.com](https://laseanpickens.com) · lasean@kaldrbusiness.com
