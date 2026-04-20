@@ -1,83 +1,63 @@
 # LaSean Pickens · @DreTheGeek
 
-**Agentic AI Engineer · Founder of Kaldr Tech**
+**Senior AI Engineer · Agentic AI · Multi-Agent Systems · RAG Architecture**
 
-🔗 [laseanpickens.com](https://laseanpickens.com)  ·  📧  lasean@kaldrbusiness.com  ·  Portfolio proof: [kaldrtech.com](https://kaldrtech.com)
-
----
-
-## What I ship
-
-I build production agentic AI systems end-to-end. Multi-agent orchestration, RAG pipelines, agent memory, enterprise integration.
-
-Currently building **Kaldr Tech**, a live multi-tenant SaaS marketplace running on:
-- Supabase Postgres 17 with 31 production edge functions
-- Stripe Connect Express with 3D Secure and instant payouts
-- 30+ orchestrated AI agents via Model Context Protocol
-- Retrieval-Augmented Generation over pgvector
-- 14+ enterprise API integrations via Composio + custom MCP servers
-- Vapi voice AI + Twilio 10DLC SMS
-- Anthropic Claude + OpenAI + Gemini
-
-48 production repositories shipped solo in 10 weeks.
+🔗 [laseanpickens.com](https://laseanpickens.com)  ·  📧  lasean@kaldrbusiness.com  ·  Portfolio: [kaldrtech.com](https://kaldrtech.com)
 
 ---
 
-## Stack
+## What I build
 
-**AI and Agents**  
-LangChain · LangGraph · CrewAI · AutoGen · Semantic Kernel · LlamaIndex · Anthropic Agent SDK · Model Context Protocol · RAG · prompt engineering · tool calling
+Production agentic AI systems, end-to-end. Multi-agent orchestration, retrieval-augmented generation pipelines, agent memory, evaluation harnesses, and secure enterprise API integration.
 
-**LLM and Cloud**  
-Anthropic Claude · OpenAI · Google Gemini · AWS Bedrock · Azure OpenAI · Google Vertex AI
+Focus is on **systems that plan, reason, and act autonomously in production**. Zero cross-tenant data leakage and zero production downtime on the current platform since deployment.
 
-**Vector DBs**  
-Pinecone · Weaviate · Chroma · Milvus · Qdrant · pgvector
+---
 
-**Backend**  
-Supabase (Postgres 17, RLS, Edge Functions, Auth) · Next.js 14 · TypeScript · Python · Node.js · Deno · GraphQL · tRPC · REST
+## Core competencies
 
-**Payments**  
-Stripe Connect Express · 3D Secure · instant payouts · Customer Portal · Billing · Checkout · dispute automation
+**Agentic AI**  
+Multi-agent architecture · planning loops · agent memory (short-term and persistent) · tool orchestration · Agent-to-Agent communication · autonomous task execution · Model Context Protocol tool layers · evaluation harnesses · drift and hallucination detection
 
-**Infra**  
-Docker · Kubernetes (EKS/AKS/GKE) · Terraform · GitHub Actions · Vercel · Railway · AWS Lambda
+**Retrieval & RAG**  
+Vector database design · hybrid search (vector + keyword) · chunking strategies · reranking · embedding pipelines · grounding evaluation · document ingestion workflows · continuous refresh
+
+**LLM Integration**  
+Prompt engineering · tool/function calling · structured output · multi-model routing across frontier and open-source providers · cost optimization · token budgeting · guardrails
+
+**Backend & Platform**  
+Python · TypeScript · Node.js · Deno · REST · GraphQL · gRPC · OpenAPI · webhook-driven architectures · serverless edge functions · event-driven systems
+
+**Data**  
+PostgreSQL · Row-Level Security · multi-tenant schema design · vector stores · Redis · SQL optimization · schema migration · data modeling
+
+**Frontend**  
+Next.js · React · React Native · TypeScript · Tailwind CSS · responsive dashboards · role-based UI gating · server components
+
+**Cloud & Infrastructure**  
+AWS · Azure · GCP · Docker · Kubernetes · Terraform · CI/CD pipelines · GitHub Actions · infrastructure-as-code
+
+**Auth & APIs**  
+OAuth 2.0 · SAML · OIDC · JWT · scoped access tokens · multi-tenant authorization · API gateway patterns
+
+**Payments & Integrations**  
+Marketplace payment flows · instant payouts · 3D Secure · webhook reconciliation · chargeback automation · third-party API orchestration
 
 **Observability**  
-Sentry · Prometheus · Grafana · Datadog · LangSmith · Langfuse · Arize Phoenix
-
-**Voice / SMS**  
-Vapi · Twilio 10DLC · ElevenLabs
-
-**Automation**  
-n8n Cloud · Zapier · Composio · Make
+Structured logging · distributed tracing · LLM evaluation tooling · error monitoring · drift detection
 
 **Compliance**  
-SOC 2-aligned controls · PCI DSS merchant · TCPA 10DLC · GDPR · CCPA · HIPAA-aware
-
----
-
-## Pinned repos
-
-### Public
-- [KaldrClaw](https://github.com/DreTheGeek/KaldrClaw) - Claude Code plugin
-- [agency-agents](https://github.com/DreTheGeek/agency-agents) - AI agency agents
-- [BigClaw_Template](https://github.com/DreTheGeek/BigClaw_Template) - Bot empire runner
-- [ralph-loop](https://github.com/DreTheGeek/ralph-loop) - Claude plugins directory
-- [propstack](https://github.com/DreTheGeek/propstack)
-
-### Core product (private)
-**kaldr-tech** - Kaldr Tech multi-tenant SaaS platform. Live at kaldrtech.com. Walkthrough available on request.
+SOC 2-aligned controls · PCI DSS Level 4 merchant · TCPA / 10DLC · GDPR · CCPA · HIPAA-compatible patterns · EU AI Act and Colorado AI Act awareness
 
 ---
 
 ## Background
 
-Ten years operating complex industrial-control systems in safety-critical, zero-defect production environments. Transitioned to full-time software and AI engineering 2024-2026. Operator discipline now drives production reliability work.
+Nine years operating complex industrial control systems in safety-critical, zero-defect production environments. Transitioned to full-time software and AI engineering. Operator discipline now drives production reliability work: fail-safe defaults, preflight checks, continuous monitoring, clean escalation protocols.
 
 ---
 
-## Booking
+## Contract work
 
 Remote (US Eastern Time). Available for contract engagements in agentic AI, platform engineering, or full-stack SaaS.
 
