@@ -1,6 +1,6 @@
 # LaSean Pickens · @DreTheGeek
 
-**Senior AI Engineer · Agentic AI · Multi-Agent Systems · RAG Architecture**
+** AI Infrastucture Developer · Agentic AI · Multi-Agent Systems · RAG Architecture**
 
 🔗 [laseanpickens.com](https://laseanpickens.com)  ·  📧  lasean@kaldrbusiness.com  ·  Portfolio: [kaldrtech.com](https://kaldrtech.com)
 
