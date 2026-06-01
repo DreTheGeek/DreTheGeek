@@ -1,6 +1,6 @@
 # LaSean Pickens · @DreTheGeek
 
-** AI Infrastucture Developer · Agentic AI · Multi-Agent Systems · RAG Architecture**
+**AI Infrastructure Developer · Agentic AI · Multi-Agent Systems · RAG Architecture**
 
 🔗 [laseanpickens.com](https://laseanpickens.com)  ·  📧  lasean@kaldrbusiness.com  ·  Portfolio: [kaldrtech.com](https://kaldrtech.com)
 
@@ -11,6 +11,21 @@
 Production agentic AI systems, end-to-end. Multi-agent orchestration, retrieval-augmented generation pipelines, agent memory, evaluation harnesses, and secure enterprise API integration.
 
 Focus is on **systems that plan, reason, and act autonomously in production**. Zero cross-tenant data leakage and zero production downtime on the current platform since deployment.
+
+---
+
+## Featured work: CraneOp
+
+**[CraneOp](https://craneop.net)** is the vertical operating system for the crane services industry, built end to end and live in production. A product of **Kaldr Tech**.
+
+Just shipped the **v3.0 milestone (39 product requirements, every one verified against its spec)**:
+
+- **AI agent suite (metered, governed):** 24/7 voice intake (Vapi + Twilio, signature-verified), capacity-deterministic lift-plan drafting with a non-bypassable server-side DRAFT watermark and OSHA / NSPE liability guards, revenue-leakage guard, AR copilot, morning briefing, and a compliance agent, all routed through one metered Claude substrate with zero direct SDK calls.
+- **Revenue intelligence:** loss dashboard, ROI recovery reporting, branded quarterly and weekly owner reports, a public lead-gated leakage calculator, deterministic buyer scoring, and multi-channel follow-up automation behind human-approval gates.
+- **HQ control plane:** quarterly managed-engagement billing on Stripe Invoices, AI control, live ops, a parameterized demo-tenant builder with verified cross-tenant isolation, and a dedup-safe competitor-CSV migration tool.
+- **Platform:** TanStack Start + React 19, Supabase Postgres with row-level security on every tenant table, 100+ Deno edge functions, 36 scheduled jobs, Stripe Connect + Modern Treasury, on Vercel.
+
+Multi-tenant by construction: two canonical isolation helpers applied across 280+ migrations, zero cross-tenant data leakage, mechanics-lien automation, and OSHA + NCCCO + Davis-Bacon compliance modeled as the schema rather than a side-feature.
 
 ---
 
